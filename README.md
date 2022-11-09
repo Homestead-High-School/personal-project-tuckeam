@@ -3,7 +3,7 @@ Final project for Advanced Programming
 
 Contract: https://docs.google.com/document/d/1KBOP3NzwDcKsgNZMkdTl9jtV0LvfjIzuzXBfv6P4rEQ/edit?usp=sharing 
 
-**11/9:** <ins>default arguments, inline functions, overloaded functions, and templates for overloaded functions:</ins>
+**11/9:** <ins>default arguments, inline functions, overloaded functions, templates for overloaded functions, and destructors:</ins>
 
 If a method is getting called multiple times with a common parameter you can use default arguments then call it with no arguments and it will use the default
 
@@ -11,12 +11,38 @@ If a method is getting called multiple times with a common parameter you can use
 
 ![Screen Shot 2022-11-09 at 1 13 47 PM](https://user-images.githubusercontent.com/112722444/200920475-d4fdcefb-4240-43a6-8513-619cf10718b7.png)
 
-Example of a template. Overloaded functions do the same thing, but with different variable types, but templates allow you to write one method that takes multiple types
+-Overloaded functions do the same thing, but with different variable types, but templates allow you to write one method that takes multiple types
+
+Example of a template.
 
 ![Screen Shot 2022-11-09 at 12 58 36 PM](https://user-images.githubusercontent.com/112722444/200917468-015e8368-a869-4cfe-b9e8-33aba36a8a0d.png)
 
+-Destructors are the opposite of constructors(they gets rid of objects)
+
+Destructor declaration(in song.hpp):                          
+
+![image](https://user-images.githubusercontent.com/112722444/200965172-99cdea4a-fabc-4c1b-aa0d-7ffaee3aa128.png)
+
+Destructor definition(in song.cpp):
+
+![image](https://user-images.githubusercontent.com/112722444/200965234-ce900faf-d6e0-4729-8959-4697c1d7f309.png)
+
+
 
 **11/8:** <ins>functions, scope of variables, classes, and objects:</ins>
+
+Getter and setter declaration         
+
+![image](https://user-images.githubusercontent.com/112722444/200959499-47cc8486-1ff3-4dd3-822c-a0c7257eedc1.png)
+
+
+
+![image](https://user-images.githubusercontent.com/112722444/200959616-99ccc166-edb2-4a05-a9d0-3702f81454e0.png)
+
+Object declaration and initializing
+
+![image](https://user-images.githubusercontent.com/112722444/200959112-a7a45d59-248b-47a3-ba27-2b79e33220ba.png)
+
 
 Example of function that creates a vector of the first 3 multiple of a number and returns them in a vector, similar to an arraylist
 
