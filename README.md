@@ -5,7 +5,7 @@ Contract: https://docs.google.com/document/d/1KBOP3NzwDcKsgNZMkdTl9jtV0LvfjIzuzX
 
 **11/9:** <ins>default arguments, inline functions, overloaded functions, and templates for overloaded functions:</ins>
 
-If a method is getting called multiple times with a common parameter you can use default arguments and call it with no arguments and it will use the default
+If a method is getting called multiple times with a common parameter you can use default arguments then call it with no arguments and it will use the default
 
 ![Screen Shot 2022-11-09 at 1 15 52 PM](https://user-images.githubusercontent.com/112722444/200920862-033e2fa8-71eb-425b-83b6-1b682c1c6521.png)
 
