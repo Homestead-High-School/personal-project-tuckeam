@@ -6,6 +6,8 @@ Contract: https://docs.google.com/document/d/1KBOP3NzwDcKsgNZMkdTl9jtV0LvfjIzuzX
 Replace this with a daily detail of what you have learned/done.
 This detail should be well formatted, google how-to-create github wiki for more information
 
+11/8: I learned more about functions, scope of variables, classes, and objects.
+
 11/7: I learned about while loops. for lopps, vectors, and functions.
 
 11/5: I learned about outputs, compile and execute,variables, comments, and user input.
