@@ -3,6 +3,18 @@ Final project for Advanced Programming
 
 Contract: https://docs.google.com/document/d/1KBOP3NzwDcKsgNZMkdTl9jtV0LvfjIzuzXBfv6P4rEQ/edit?usp=sharing 
 
+**11/9:** <ins>default arguments, inline functions, overloaded functions, and templates for overloaded functions:</ins>
+
+If a method is getting called multiple times with a common parameter you can use default arguments and call it with no arguments and it will use the default
+
+![Screen Shot 2022-11-09 at 1 15 52 PM](https://user-images.githubusercontent.com/112722444/200920862-033e2fa8-71eb-425b-83b6-1b682c1c6521.png)
+
+![Screen Shot 2022-11-09 at 1 13 47 PM](https://user-images.githubusercontent.com/112722444/200920475-d4fdcefb-4240-43a6-8513-619cf10718b7.png)
+
+Example of a template. Overloaded functions do the same thing, but with different variable types, but templates allow you to write one method that takes multiple types
+
+![Screen Shot 2022-11-09 at 12 58 36 PM](https://user-images.githubusercontent.com/112722444/200917468-015e8368-a869-4cfe-b9e8-33aba36a8a0d.png)
+
 
 **11/8:** <ins>functions, scope of variables, classes, and objects:</ins>
 
