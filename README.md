@@ -31,11 +31,11 @@ Destructor definition(in song.cpp):
 
 **11/8:** <ins>functions, scope of variables, classes, and objects:</ins>
 
-Getter and setter declaration         
+Getter and setter declaration(in .hpp)       
 
 ![image](https://user-images.githubusercontent.com/112722444/200959499-47cc8486-1ff3-4dd3-822c-a0c7257eedc1.png)
 
-
+Getter and setter definition(in .cpp)
 
 ![image](https://user-images.githubusercontent.com/112722444/200959616-99ccc166-edb2-4a05-a9d0-3702f81454e0.png)
 
