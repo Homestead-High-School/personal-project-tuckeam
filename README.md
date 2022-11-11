@@ -3,6 +3,10 @@ Final project for Advanced Programming
 
 Contract: https://docs.google.com/document/d/1KBOP3NzwDcKsgNZMkdTl9jtV0LvfjIzuzXBfv6P4rEQ/edit?usp=sharing 
 
+**11/11:**<ins>practice and start tic tac toe</ins>
+
+**11/10:**<ins>class practice plan tic tac toe </ins>
+
 **11/9:** <ins>default arguments, inline functions, overloaded functions, templates for overloaded functions, and destructors:</ins>
 
 If a method is getting called multiple times with a common parameter you can use default arguments then call it with no arguments and it will use the default
