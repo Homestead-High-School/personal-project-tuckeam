@@ -3,9 +3,12 @@ Final project for Advanced Programming
 
 Contract: https://docs.google.com/document/d/1KBOP3NzwDcKsgNZMkdTl9jtV0LvfjIzuzXBfv6P4rEQ/edit?usp=sharing 
 
+**11/15**<ins>MSOE practice questions, java kahoot, and checkCol() and checkDiag() methods in tic tac toe</ins>
+
 **11/14:**<ins>addLetter method to change board and started methods to check if there is a winner.</ins>
 
 addLetter method checks if the spot is still the original number then adds x or o
+
 ![Screen Shot 2022-11-14 at 1 15 35 PM](https://user-images.githubusercontent.com/112722444/201746139-97e47347-4da1-467a-ac0f-06422cdeef0d.png)
 
 **11/11:**<ins>practice and start tic tac toe</ins>
