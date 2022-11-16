@@ -3,7 +3,7 @@ Final project for Advanced Programming
 
 Contract: https://docs.google.com/document/d/1KBOP3NzwDcKsgNZMkdTl9jtV0LvfjIzuzXBfv6P4rEQ/edit?usp=sharing 
 
-**11/15**<ins>MSOE practice questions, java kahoot, and finished tic tac toe program</ins>
+**11/15**<ins>MSOE practice questions, java kahoot, and worked on main and checkTie program of tic tac toe program</ins>
 
 **11/14:**<ins>addLetter method to change board and started methods to check if there is a winner.</ins>
 
