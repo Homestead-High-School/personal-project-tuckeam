@@ -69,7 +69,7 @@ Example of a while loop that gives the user 50 tries to guess a number
 
 <img width="352" alt="Screen Shot 2022-11-08 at 8 03 17 PM" src="https://user-images.githubusercontent.com/112722444/200718822-9ce63cb9-cb6e-427f-bc10-ff723ff2ecdc.png">
 
-Vectors can be initialzed right away or declared and values can be added using name.push_back(value)
+Vectors can be initialized right away or declared and values can be added using name.push_back(value)
 <img width="442" alt="Screen Shot 2022-11-08 at 8 24 01 PM" src="https://user-images.githubusercontent.com/112722444/200721777-879c212f-5af3-4008-9c27-c896ec67a55b.png">
 
 
