@@ -2,6 +2,7 @@
 Final project for Advanced Programming
 
 Contract: https://docs.google.com/document/d/1KBOP3NzwDcKsgNZMkdTl9jtV0LvfjIzuzXBfv6P4rEQ/edit?usp=sharing 
+
 **Rest of class time for presentation and practice**
 
 **11/16:**<ins>cleaned up tic tac toe program and worked on presentation</ins>
